@@ -25,6 +25,6 @@ To stop it:
 
 <p><strong>Using python <a href="https://github.com/voila-dashboards/voila">Voila</a> and Jupyter notebook the final product looks like:
 
-<img src="https://i.imgur.com/qLLJLDy.gif"
+<img src="https://github.com/sripada92/College_Projects/blob/master/Data%20Streaming%20Project/OtherFiles/Final_output.gif"
      alt= "Voila"
      style="float:left;margin-right:10px;"/>
