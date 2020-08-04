@@ -24,4 +24,4 @@ To stop it:
 </ul>
 
 <p><strong>Using python <a href="https://github.com/voila-dashboards/voila">Voila</a> and Jupyter notebook the final product looks like:
-[Final_Output](https://imgur.com/qLLJLDy)
+[img]https://i.imgur.com/qLLJLDy.gif[/img]
