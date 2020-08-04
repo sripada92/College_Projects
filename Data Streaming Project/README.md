@@ -11,6 +11,6 @@ To stop it:
 
 <strong>Architecture Diagram</strong>
 
-<img src="https://imgur.com/uIVCHe7"
-     alt= "Architecture diagram"
+<img src="https://i.imgur.com/uIVCHe7.png"
+     alt= "arch diagram"
      style="float:left;margin-right:10px;"/>
