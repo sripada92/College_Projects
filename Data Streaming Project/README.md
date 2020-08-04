@@ -14,7 +14,16 @@ To stop it:
 <img src="https://github.com/sripada92/College_Projects/blob/master/Data%20Streaming%20Project/OtherFiles/Architecture_Diagram_Final.png"
      alt= "arch diagram"
      style="float:left;margin-right:10px;"/>
-
+     
+     
+<p><strong>Tools Used : </strong></p>
+<ul>
+<li><strong>Apache Kafka</strong></li>
+<li><strong>Python (pyKafka, pymongo)</strong></li>
+<li><strong>MongoDB</strong></li>
+<li><strong>Jupyter Notebook</strong></li>
+<li><strong>HTML, Voila</strong></li>
+</ul>
 
 <p><strong>Highlights of the approach/solution:</strong></p>
 <ul>
