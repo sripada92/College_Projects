@@ -1,4 +1,4 @@
-<i>In order to use the reposetory just:
+<i>In order to use the repository just:
 
  $ docker-compose -up -d --build
 
