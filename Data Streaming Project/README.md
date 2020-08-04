@@ -16,9 +16,12 @@ To stop it:
      style="float:left;margin-right:10px;"/>
 
 
-<p><strong>Highlights of the Approach:</strong></p>
+<p><strong>Highlights of the approach/solution:</strong></p>
 <ul>
 <li>The real time data is collected from five different data sources using python(pykafka).</li>
 <li>Data is then stored in a No-SQL database.</li>
 <li>For the frontend, Voila and jupyter notebook is used to get a feeling of a standalone web dashboard without using any complex coding or expensive tool.</li>
 </ul>
+
+<p><strong>Using python <a href="https://github.com/voila-dashboards/voila">Voila</a> and Jupyter notebook the final product looks like:
+ <blockquote class="imgur-embed-pub" lang="en" data-id="qLLJLDy"><a href="https://imgur.com/qLLJLDy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
