@@ -24,4 +24,4 @@ To stop it:
 </ul>
 
 <p><strong>Using python <a href="https://github.com/voila-dashboards/voila">Voila</a> and Jupyter notebook the final product looks like:
- <blockquote class="imgur-embed-pub" lang="en" data-id="qLLJLDy"><a href="https://imgur.com/qLLJLDy">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Final_Output](https://imgur.com/qLLJLDy)
