@@ -11,7 +11,7 @@ To stop it:
 
 <strong>Architecture Diagram</strong>
 
-<img src="https://i.imgur.com/uIVCHe7.png"
+<img src="https://github.com/sripada92/College_Projects/blob/master/Data%20Streaming%20Project/OtherFiles/Architecture_Diagram_Final.png"
      alt= "arch diagram"
      style="float:left;margin-right:10px;"/>
 
