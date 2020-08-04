@@ -24,6 +24,7 @@ To stop it:
 </ul>
 
 <p><strong>Using python <a href="https://github.com/voila-dashboards/voila">Voila</a> and Jupyter notebook the final product looks like:
+
 <img src="https://i.imgur.com/qLLJLDy.gif"
-     alt= "arch diagram"
+     alt= "Voila"
      style="float:left;margin-right:10px;"/>
