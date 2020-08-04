@@ -14,3 +14,11 @@ To stop it:
 <img src="https://i.imgur.com/uIVCHe7.png"
      alt= "arch diagram"
      style="float:left;margin-right:10px;"/>
+
+
+<p><strong>Highlights of the Approach:</strong></p>
+<ul>
+<li>The real time data is collected from five different data sources using python(pykafka).</li>
+<li>Data is then stored in a No-SQL database.</li>
+<li>For the frontend, Voila and jupyter notebook is used to get a feeling of a standalone web dashboard without using any complex coding or expensive tool.</li>
+</ul>
